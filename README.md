@@ -12,12 +12,12 @@ Habilidades destacadas
   -Manipulación de cadenas y diccionarios: Uso de estructuras de datos para procesar y almacenar información de tiempo.
   -Control de flujo y lógica condicional: Implementación de lógica para manejar diferentes escenarios de tiempo y formato.
   -Documentación y buenas prácticas: Código limpio y estructurado, con enfoque en la legibilidad y mantenibilidad.
-## **Uso**
+ **Uso**
 
 Para utilizar la función, simplemente llámala con dos los valores de hora actual, hora a sumar y dia de la semana para mostrar respuesta:
 
 ```python
-print(add_time('2:59 AM', '24:00', 'saturDay'))
+## print(add_time('2:59 AM', '24:00', 'saturDay'))
 
 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias o mejoras.
